@@ -1,0 +1,35 @@
+*** ADDED ENCRYPTION.BAS
+SORRY FOR THE ERROR!
+
+
+This program is made by:
+
+Digital Joey Inc.
+
+http://www.digitaljoey.itgo.com
+
+
+Legal Stuff:
+
+Digital Joey Inc. IS NOT Responsable for anything that happens to your computer with this program. This is just to be safe. This program has been tested on 25 other machines and it works just fine under any operating System.
+
+
+
+LAST UPDATED: APRIL 5, 2002
+
+UPDATE: Feb 6:  NEW UPDATE!!! WOW! This is Amazing Now! 
+It now checks to see if you delete the registry entries of the
+ number of days used, if you did, It KNOWS!!! And it won't let 
+you use the program!!! VERY SMART!! CHECK IT OUT!
+
+
+
+Files:
+
+Keygen: The Key generator for the registration program.
+
+Project 1: This is the example to show you how to use the registration. It has a 14 day trial with it.
+
+Enjoy!
+
+(C) 2002 Digital Joey Inc.   http://www.digitaljoey.itgo.com
